@@ -42,10 +42,6 @@ cd bindedkaal
 chmod +x bindedkaal.py
 ```
 
-### Method 2: Direct Download
-
-Download the latest release from the [releases page](https://github.com/kaal-misconfig/bindedkaal/releases).
-
 ## Usage
 
 ### Basic Operation
@@ -60,13 +56,13 @@ The interactive menu will guide you through:
 2. Selecting a payload file
 3. Binding the files together
 
-### Command Line Arguments
+### Command 1
 
 ```bash
 select option 1 to upload pdf file and paste the path to the pdf
 ```
 
-### Example
+### Command 2
 
 ```bash
 select option 2 to select the payload which you want to bind with the pdf file and paste the path to the payload
