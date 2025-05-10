@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux-red.svg)](https://github.com/kaal-misconfig/bindedkaal)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kaal-Misconfig/BindedKaal/9d942b3b90aeddabbda4fae633fe44a06ff89fb1/bindedkaal-logo.svg?token=BQV3H4ZLNRS6SS4QGCVRHFTID44FC" alt="BindedKaal Logo" width="300"/>
+  <img src="https://github.com/Kaal-Misconfig/BindedKaal/blob/main/Screenshot%202025-05-10%20163407.png?raw=true" alt="BindedKaal Logo" width="300"/>
   <h3>Advanced PDF Payload Binding Tool</h3>
 </div>
 
