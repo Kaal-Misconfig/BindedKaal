@@ -172,5 +172,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <div align="center">
   <p>© 2025 BindedKaal by Kaal-Misconfig. All rights reserved.</p>
-  <img src="assets/footer.png" alt="Footer" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/204190707?v=4" alt="Footer" width="200"/>
 </div>
