@@ -38,9 +38,6 @@ git clone https://github.com/kaal-misconfig/bindedkaal.git
 # Navigate to the directory
 cd bindedkaal
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Make the script executable
 chmod +x bindedkaal.py
 ```
@@ -66,13 +63,14 @@ The interactive menu will guide you through:
 ### Command Line Arguments
 
 ```bash
-python bindedkaal.py --pdf [PDF_PATH] --payload [PAYLOAD_PATH] --output [OUTPUT_NAME]
+select option 1 to upload pdf file and paste the path to the pdf
 ```
 
 ### Example
 
 ```bash
-python bindedkaal.py --pdf documents/report.pdf --payload scripts/payload.py --output secret_document.pdf
+select option 2 to select the payload which you want to bind with the pdf file and paste the path to the payload
+tip - you can generate payload using PayloadKaal
 ```
 
 ## How It Works
